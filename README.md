@@ -1,7 +1,6 @@
 # Heart-Disease-Risk-Estimation
 Estimation of heart disease using patient's data like age, gender, Blood Pressure, serum cholesterol, fasting blood sugar etc.. 
 
-
 We found that the ‘opst’ and ‘dests’ contain about 60% which is the highest correlation.
 ‘Thal’ is gonna play a significant role has since it has got highest correlation with the predicted
 variable ‘a1p2’ .
