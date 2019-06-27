@@ -5,6 +5,7 @@ Estimation of heart disease using patient's data like age, gender, Blood Pressur
 We found that the ‘opst’ and ‘dests’ contain about 60% which is the highest correlation.
 ‘Thal’ is gonna play a significant role has since it has got highest correlation with the predicted
 variable ‘a1p2’ .
+
 We can neglect either ‘opst’ or ‘dests’ since they are highly correlated.
 
 1stVariable 2ndVariable Correlation
